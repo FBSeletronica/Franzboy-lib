@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Franzboy
+####################################### 
+# Class
+#######################################
+
+Franzboy	KEYWORD1	FranzboyLibrary
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+leBotao	KEYWORD2
+ligaLED	KEYWORD2
+desligaLED	KEYWORD2
+inverteLED	KEYWORD2
+beep	KEYWORD2
+
+
+
+#######################################
+# Constants
+#######################################
+ 
