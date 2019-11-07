@@ -42,6 +42,9 @@ Para isso, faça os seguintes passos:
 Veja a lista completa de [contribuiudores](https://github.com/FBSeletronica/Franzboy-lib/graphs/contributors) desse projeto.
 
 
+#### Discussões sobre implementações e bugs devem ser feitas nas [Issues](https://github.com/FBSeletronica/Franzboy-lib/issues)
+
+
 # Autor
 
 Fábio Souza
