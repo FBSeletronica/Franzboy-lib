@@ -1,3 +1,0 @@
-= Franzboy board library =
-
-Bibliote para facilitar o uso da placa abstraindo a interface com o Hardware
